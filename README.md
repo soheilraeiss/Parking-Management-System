@@ -84,7 +84,8 @@ Platform: Cross-platform compatibility.
 # Installation
 
 Clone the repository:
-git clone https://github.com/<your-username>/parking-management-system.git
+git clone https://github.com/<parking-management-system.git>[Internship Program Final Report.pdf](https://github.com/user-attachments/files/21074382/Internship.Program.Final.Report.pdf)
+
 
 
 Install the Qt framework and required dependencies.
