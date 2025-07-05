@@ -84,8 +84,7 @@ Platform: Cross-platform compatibility.
 # Installation
 
 Clone the repository:
-git clone https://github.com/<parking-management-system.git>[Internship Program Final Report.pdf](https://github.com/user-attachments/files/21074382/Internship.Program.Final.Report.pdf)
-
+git clone https://github.com/parking-management-system.git
 
 
 Install the Qt framework and required dependencies.
@@ -113,3 +112,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 For questions or feedback, please contact the project maintainer at soheilraeiss@gmail.com
+
+[Internship Program Final Report.pdf](https://github.com/user-attachments/files/21074431/Internship.Program.Final.Report.pdf)
+
